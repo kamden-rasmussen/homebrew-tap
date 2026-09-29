@@ -5,9 +5,9 @@ cask "ezcal" do
   url "https://github.com/kamden-rasmussen/homebrew-tap/releases/download/ezcal-v#{version}/EZCal-#{version}.zip"
   name "EZCal"
   desc "Menu bar calendar with one-click Zoom and Meet"
-  homepage "https://github.com/kamden-rasmussen/EZCal"
+  homepage "https://github.com/kamden-rasmussen/homebrew-tap"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "EZCal.app"
 
