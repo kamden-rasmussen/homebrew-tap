@@ -1,6 +1,6 @@
 cask "ezcal" do
-  version "1.2.7"
-  sha256 "087343704c92eaf79642178747b99561fb7e3a3ece1a1877171538ba4c95d14a"
+  version "1.2.8"
+  sha256 "9b3dfe81815bf407851072d5ec1d3faf0a2d3c4795bb4ecd400bec173ad7bcdb"
 
   url "https://github.com/kamden-rasmussen/homebrew-tap/releases/download/ezcal-v#{version}/EZCal-#{version}.zip"
   name "EZCal"
